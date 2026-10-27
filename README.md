@@ -6,15 +6,15 @@ Vals 的公开问题反馈与发布渠道；程序源代码保存在私有仓库
 
 [下载最新版 vals.exe](https://github.com/HikAr131/Vals-release/releases/latest/download/vals.exe) · [版本说明](https://github.com/HikAr131/Vals-release/releases/latest)
 
-当前版本 **0.0.4**，供内测群测试与反馈。Windows x64 单文件便携程序，需要 Microsoft Edge WebView2 Runtime；运行时会请求管理员权限，无需安装。
+当前版本 **0.0.5**，供内测群测试与反馈。Windows x64 单文件便携程序，需要 Microsoft Edge WebView2 Runtime；运行时会请求管理员权限，无需安装。
 
 支持自动／手动主显示器调整、NVIDIA 自定义分辨率与 GPU 缩放、灵敏度换算、通知、系统托盘、登录自启、简体／繁体中文及签名校验的自动更新。
 
-本次更新：一些其他的改进与错误修复
+本次更新：统一深浅色、图标与侧栏，整合反馈问题入口，完善窗口和桌面交互行为。
 
 ## 内测问题反馈
 
-1. 在 Vals「关于我们 → 日志与反馈」导出诊断包。
+1. 点击侧栏最下方的「反馈问题」，保存诊断包后打开反馈页；「关于我们 → 日志与反馈」也保留导出入口。
 2. [提交问题](https://github.com/HikAr131/Vals-release/issues/new?template=bug_report.yml)，填写版本、操作步骤、预期结果与实际结果，并拖入诊断 ZIP。
 3. 公开 Issue 和附件所有人都能看见。请勿附账号、私人路径、游戏账号截图、证书或密钥；只附由 Vals 导出的诊断包及自行检查过的截图。
 
