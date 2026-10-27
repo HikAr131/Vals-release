@@ -6,7 +6,7 @@ Vals 的公开问题反馈与发布渠道；程序源代码保存在私有仓库
 
 [下载最新版 vals.exe](https://github.com/HikAr131/Vals-release/releases/latest/download/vals.exe) · [版本说明](https://github.com/HikAr131/Vals-release/releases/latest)
 
-当前版本 **0.0.3**，供内测群测试与反馈。Windows x64 单文件便携程序，需要 Microsoft Edge WebView2 Runtime；运行时会请求管理员权限，无需安装。
+当前版本 **0.0.4**，供内测群测试与反馈。Windows x64 单文件便携程序，需要 Microsoft Edge WebView2 Runtime；运行时会请求管理员权限，无需安装。
 
 支持自动／手动主显示器调整、NVIDIA 自定义分辨率与 GPU 缩放、灵敏度换算、通知、系统托盘、登录自启、简体／繁体中文及签名校验的自动更新。
 
