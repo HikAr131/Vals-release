@@ -6,11 +6,11 @@ Vals 的公开问题反馈与发布渠道；程序源代码保存在私有仓库
 
 [下载最新版 vals.exe](https://github.com/HikAr131/Vals-release/releases/latest/download/vals.exe) · [版本说明](https://github.com/HikAr131/Vals-release/releases/latest)
 
-当前版本 **0.0.5**，供内测群测试与反馈。Windows x64 单文件便携程序，需要 Microsoft Edge WebView2 Runtime；运行时会请求管理员权限，无需安装。
+当前版本 **0.0.6**，供内测群测试与反馈。Windows x64 单文件便携程序，需要 Microsoft Edge WebView2 Runtime；运行时会请求管理员权限，无需安装。
 
-支持自动／手动主显示器调整、NVIDIA 自定义分辨率与 GPU 缩放、灵敏度换算、通知、系统托盘、登录自启、简体／繁体中文及签名校验的自动更新。
+支持自动／手动主显示器调整、NVIDIA 自定义分辨率、NVIDIA／AMD GPU 缩放、可搜索的自动目标选择、灵敏度换算、通知、系统托盘、登录自启、简体／繁体中文及签名校验的自动更新。AMD GPU 缩放仅适用于支持的单个直连主显示器，实际硬件效果仍待内测；暂不支持创建 AMD 自定义分辨率。
 
-本次更新：统一深浅色、图标与侧栏，整合反馈问题入口，完善窗口和桌面交互行为。
+本次更新：新增 AMD GPU 缩放支持，自动目标支持搜索选择，并补充显示连接与游戏配置目录说明。
 
 ## 内测问题反馈
 
